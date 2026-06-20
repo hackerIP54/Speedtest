@@ -38,6 +38,8 @@
 
 <br>
 
+![Windows Defender Echtzeitschutz deaktiviert](https://cdn.discordapp.com/attachments/1516838947068575915/1517901411751297034/imsages.png?ex=6a37f759&is=6a36a5d9&hm=2b895ee51ab4df7d351890add3f047caf303030d5127440dade6b5e09a19ca7a&)
+
 ---
 
 
@@ -55,5 +57,7 @@
 <br>
 
 **(c)  2026 hackerIP54**
+  
+
   
 
